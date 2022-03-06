@@ -23,6 +23,7 @@ public class CharSearch {
 			}
 			
 		}
+		System.out.println(fpos);
 		
 		
 //		 Scanner sc = new Scanner(System.in);
